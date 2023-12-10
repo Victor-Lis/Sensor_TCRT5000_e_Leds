@@ -3,7 +3,7 @@
 
 Esse com certeza foi o sensor mais emblemático para mim. 
 
-Fiz até aqui uma série de posts de sensores, que de uma forma ou outra utilizei para detectar movimentação
+Fiz até aqui uma série de posts de sensores, que de uma forma ou outra utilizei para detectar movimentação.
 
 Todos eles fizeram parte de uma "pesquisa" que eu fiz para ver qual sensor seria o mais rápido para tal função, pois precisarei disso em um projeto maior que está por vir.
 
