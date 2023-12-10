@@ -67,7 +67,7 @@ void loop(){
 }
 ```
 
-# Resultado
+## Resultado
 
 [Ver vídeo do projeto funcionando!](https://youtube.com/shorts/og_KhTfBuMM?feature=share)
 ## Autores
