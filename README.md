@@ -51,7 +51,7 @@ Se existir algo obstruindo esse retorno do infravermelho o valor é LOW (Pois el
 
 Se não existir algo obstruindo esse retorno significa que o retorno do infravermelho é bem sucessido logo o valor é HIGH (Pois leu de volta).
 
-Por conta disso além de ser encontrado como "Sensor-TCRT5000", pode ser encontrado como "Sensor Óptico Reflexivo"
+Por conta disso além de ser encontrado como "Sensor-TCRT5000", pode ser encontrado como "Sensor Óptico Reflexivo".
 
 ```c++
 void loop(){
@@ -65,7 +65,8 @@ void loop(){
         Serial.println("Movimento");
   }    
 }
-``` 
+```
+
 # Resultado
 
 [Ver vídeo do projeto funcionando!](https://youtube.com/shorts/og_KhTfBuMM?feature=share)
