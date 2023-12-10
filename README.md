@@ -53,7 +53,7 @@ Se não existir algo obstruindo esse retorno significa que o retorno do infraver
 
 Por conta disso além de ser encontrado como "Sensor-TCRT5000", pode ser encontrado como "Sensor Óptico Reflexivo"
 
-```c+++
+```c++
 void loop(){
   if (digitalRead(pinSensor) == HIGH){ 
         digitalWrite(pinLedGreen, HIGH);
